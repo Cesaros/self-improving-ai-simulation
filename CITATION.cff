@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this educational simulation, please cite it as follows."
+title: "Self-Improving AI: Five-Strategy Reinforcement-Learning Toy Model"
+type: software
+authors:
+  - family-names: "Osorio"
+    given-names: "Cesar"
+repository-code: "https://github.com/Cesaros/self-improving-ai-simulation"
+url: "https://github.com/Cesaros/self-improving-ai-simulation"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-28
+abstract: >-
+  An educational simulation of recursive AI self-improvement using an
+  epsilon-greedy multi-armed bandit, stochastic research outcomes, and
+  diminishing capability returns.
+keywords:
+  - artificial intelligence
+  - recursive self-improvement
+  - reinforcement learning
+  - multi-armed bandit
+  - AI research automation
+
