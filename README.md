@@ -3,6 +3,10 @@
 An educational toy model of recursive AI self-improvement using an
 epsilon-greedy multi-armed bandit.
 
+[View the executed notebook on GitHub](https://github.com/Cesaros/self-improving-ai-simulation/blob/main/self_improving_ai_5_strategies.ipynb)
+· [Open it in Google Colab](https://colab.research.google.com/github/Cesaros/self-improving-ai-simulation/blob/main/self_improving_ai_5_strategies.ipynb)
+· [Cesar Osorio](https://www.cesarosorio.com)
+
 The simulation explores a positive-feedback loop:
 
 > better AI → better research → better strategy selection → better AI
@@ -103,4 +107,3 @@ from AIDE² appear at the end of the notebook.
 ## License
 
 The repository is available under the [MIT License](./LICENSE).
-
