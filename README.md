@@ -29,8 +29,8 @@ The notebook has already been executed and includes:
 
 ## Model overview
 
-The model gives an AI system a normalized capability level `A` between 0 and
-1. In every generation, it selects one of five research strategies:
+The model gives an AI system a normalized capability level `A`, where
+`0 ≤ A ≤ 1`. In every generation, it selects one of five research strategies:
 
 1. Prompt and scaffold improvement
 2. Search and planning improvement
